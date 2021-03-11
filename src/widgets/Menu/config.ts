@@ -126,6 +126,8 @@ export const socials = [
         label: "Announcements",
         href: "https://t.me/greninjafinanceannounce",
       },
+    ],
+  },
   {
     label: "Twitter",
     icon: "TwitterIcon",
