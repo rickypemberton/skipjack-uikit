@@ -39,4 +39,12 @@ This project is built with Typescript and export all the relevant types.
 
 If you want to use components from the UIkit, check the [Storybook documentation](https://pancakeswap.github.io/pancake-uikit/)
 
-#test12
+## How to change logo, spinner and footer nav pic
+
+for LOGO go to /src/widgets/Menu/icons/Logo.tsx line 16 change the filepath of logo
+
+for MOBILE Logo go to /src/components/Svg/icons/Logo.tsx in line 8 change mobile logo path 
+
+for SPINNER got to /src/components/Spinner/Spinner.tsx line 18 change the filepath of spinner
+
+for FOOTER NAV PIC go to /src/components/Svg/icons/PancakeRound.tsx in line 8 change the filepath of footer nav pic
