@@ -42,11 +42,11 @@ export const darkColors: Colors = {
   contrast: "#FFFFFF",
   invertedContrast: "#191326",
   input: "#2596be",
-  primaryDark: "#2596be",
+  primaryDark: "#FFFFFF",
   tertiary: "#2596be",
   text:"#2596be",
   textDisabled: "#666171",
-  textSubtle: "#2596be",
+  textSubtle: "#FFFFFF",
   borderColor: "#524B63",
   card: "#27262c",
   gradients: {
